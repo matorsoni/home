@@ -7,9 +7,10 @@ alias glo='git log'
 alias gad='git add'
 
 # UBUNTU
-alias atualize='sudo apt update && sudo apt upgrade -y'
-alias instale='sudo apt install -y'
-alias apague='sudo apt purge --auto-remove'
+alias ubuv='cat /etc/lsb-release'
+alias saup='sudo apt update && sudo apt upgrade -y'
+alias sain='sudo apt install -y'
+alias sarm='sudo apt purge --auto-remove'
 
 # MISC
 alias cpy='cp --recursive --interactive --verbose'
