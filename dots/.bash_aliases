@@ -8,8 +8,8 @@ alias gad='git add'
 
 # UBUNTU
 alias ubuv='cat /etc/lsb-release'
-alias saup='sudo apt update && sudo apt upgrade -y'
-alias sain='sudo apt install -y'
+alias saup='sudo apt update && sudo apt upgrade'
+alias sain='sudo apt install'
 alias sarm='sudo apt purge --auto-remove'
 
 # MISC
